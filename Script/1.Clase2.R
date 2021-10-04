@@ -1,2 +1,16 @@
 library(electorAr)
 show_available_elections(source = "data")
+git config --global user.email "lourdes.sempert@gmail.com"
+git config --global user.email "lourdes.sempert@gmail.com"
+git config --global user.name "Lou Semp"
+config --global user.email "lourdes.sempert@gmail.com"
+config --global user.name "Lousemp80"
+config --global user.email "lourdes.sempert@gmail.com"
+config --global user.email "lourdes.sempert@gmail.com"
+user.email "lourdes.sempert@gmail.com"
+git config --global user.name "Lousemp80"
+git config --global user."lourdes.sempert@gmail.com"
+git config --global user."lourdes.sempert@gmail.com"
+git config --global user.email "lourdes.sempert@gmail.com"
+git config --global user.name "Lousemp80"
+git config --global user.name "Lousemp80"
